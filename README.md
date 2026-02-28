@@ -1,5 +1,8 @@
 # Pricing-Demand-Exploration
 
+Live website link<br>
+https://vedika48-pricing-demand-exploration-pricing-prototype-sitq7o.streamlit.app/
+
 ## Overview
 The AI-Powered Pricing Strategy & Demand Simulator takes a hybrid approach that combines machine learning's quantitative capabilities with generative AI's qualitative reasoning to solve complex pricing decisions. Rather than treating pricing as a simple formula, we model it as a dynamic system where multiple factors interact to influence demand.
 
